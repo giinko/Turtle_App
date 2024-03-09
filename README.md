@@ -32,4 +32,4 @@ python main.py
 ```
 ## Auteur
 
-- [giinko](https://github.com/giinko)
+[@giinko](https://github.com/giinko)
