@@ -13,4 +13,23 @@ Installez également les bibliothèques nécessaires en exécutant la commande s
 
 ```bash
 pip install Pillow tkinter
+```
 
+## Installation
+
+Clonez le dépôt sur votre machine locale et installez les dépendances nécessaires :
+
+```bash
+git clone https://github.com/votre-utilisateur/votre-projet.git
+```
+
+## Utilisation
+
+Pour lancer le programme, exécutez le fichier principal :
+
+```bash
+python main.py
+```
+## Auteur
+
+- [giinko](https://github.com/giinko)
